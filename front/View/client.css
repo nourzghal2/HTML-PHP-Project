@@ -1,0 +1,50 @@
+body {
+    background-image:url(fond.jpg);
+} 
+h1 {
+color:rgb(188, 104, 182);
+}
+a{
+    color:rgb(60, 52, 39);
+    background-color:rgb(245, 240, 244);
+    border:1px solid white;
+text-decoration:none;
+padding-bottom:5px;
+padding-top: 5px;
+padding-left: 10px;
+padding-right: 10px;
+font-size: 17px;
+}
+a:hover{
+    color:black;
+    background-color:rgb(154, 113, 161);
+}
+input{ 
+    color:rgb(60, 52, 39);
+    border:1px solid white;
+text-decoration:none;
+padding-bottom:4px;
+padding-top: 4px;
+padding-left: 10px;
+padding-right: 10px;
+font-size: 17px;
+}
+input:hover{
+    color:black;
+    background-color:rgb(212, 191, 215);
+}
+table{
+border-collapse:collapse;
+
+}
+tr{
+    border:2px solid rgb(244, 244, 250);
+}
+th{
+    background-color: blanchedalmond ;
+    border:2px solid rgb(244, 244, 250);
+}
+td{
+    background-color: rgb(236, 177, 89) ;
+    border:2px solid rgb(244, 244, 250);
+}
